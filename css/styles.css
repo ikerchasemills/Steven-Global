@@ -1,0 +1,118 @@
+body{
+  text-align: center;
+  background-color: #1B2430;
+margin: 0;
+font-family: 'Merriweather Sans', sans-serif;
+}
+h1{
+  color: white;
+  font-family: 'Nuosu SIL', serif;
+}
+#motto{
+  color: white;
+  font-family: 'Italianno', cursive;
+  padding-top: 2px;
+}
+.topAndSub-headings{
+  line-height: 0;
+}
+h2 {
+  color: #3BACB6;
+  font-family: 'Kanit', sans-serif;
+}
+h3{
+    color: #3BACB6;
+    font-family: 'Noto Serif', serif;
+}
+hr{
+  border:5px dotted black;
+  border-bottom: none;
+  width:3%;
+  margin-top: 50px;
+}
+a{
+margin: 10px 10px;
+text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+span{
+  color: #FAC213;
+  font-family: 'Blaka', cursive;
+  font-size: 4rem;
+}
+.topContainer{
+position: relative;
+padding-top: 40px;
+}
+.middleContainer{
+background-color: white;
+padding-top: 20px;
+padding-bottom: 30px;
+}
+.bottomcontainer{
+  background-color:#79B4B7;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.copyRight-text{
+  font-size: 10px;
+}
+.webDevelopment{
+    width: 50%;
+   margin: 70px auto 50px;
+}
+#ourServices{
+margin-top: 60px;
+}
+.graphicsDesign{
+  width: 50%;
+ margin: 100px auto;
+}
+.PencilArt{
+  margin: 60px auto;
+}
+.middleContainer-1paragraph{
+  width:40%;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+.middleContainer-2paragraph{
+  width:40%;
+  margin: 0 auto;
+}
+.middleContainer-3paragraph{
+  width:40%;
+  margin: 0 auto;
+}
+.middleContainer-4paragraph{
+  width:40%;
+  margin: 0 auto;
+}
+.webDevelopment-icon{
+  width:15%;
+  float: right;
+  padding-right:80px;
+  padding-top: 50px;
+
+}
+.graphicsDesign-icon{
+  width:15%;
+  float: left;
+  padding-left: 80px;
+}
+.pencilArt-icon{
+    width:10%;
+}
+
+.aboutMe-container{
+  margin-top: 50px;
+}
+.aboutMe-heading{
+  font-family: 'Kanit', sans-serif;
+  color: #3BACB6;
+}
+.aboutMe-heading:hover{
+  color:black;
+}
